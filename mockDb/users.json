@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bc71baad-2f1e-4750-92ab-c462b3bd340b",
+    "firstName": "Spongebob",
+    "lastName": "Squarepants",
+    "email": "sponge@bob.com"
+  },
+  {
+    "id": "4e54e270-a33e-429b-bb49-7b5b836de098",
+    "firstName": "Patrick",
+    "lastName": "Star",
+    "email": "patrick@star.com"
+  }
+]

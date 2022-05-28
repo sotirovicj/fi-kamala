@@ -1,0 +1,36 @@
+[
+  {
+    "id": "503ef7df-42a2-4466-a849-a802ac6fcb48",
+    "phrase": "How much does the subscription cost?",
+    "type": "FAQ",
+    "answer": "https://femaleinvest.com/membership"
+  },
+  {
+    "id": "a9f0f015-c12b-4231-8f65-31f557f8cecd",
+    "phrase": "What data do you collect?",
+    "type": "FAQ",
+    "answer": "https://femaleinvest.com/privacy"
+  },
+  {
+    "id": "e2ed3b7b-412c-4446-a293-85b7adeaed6c",
+    "phrase": "How do I reset my password?",
+    "type": "FAQ",
+    "answer": "https://community.femaleinvest.com/forgot?redirect=/"
+  },
+  {
+    "id": "cba73ae7-1e40-46d8-a1af-127ff477701e",
+    "phrase": "Where can I buy some merch?",
+    "type": "FAQ",
+    "answer": "https://femaleinvest.store/"
+  },
+  {
+    "id": "daa83538-6975-443d-85a9-ef303767d632",
+    "phrase": "Cancel my subscription",
+    "type": "COMMAND"
+  },
+  {
+    "id": "1af56553-1928-4ab6-903d-916f714782af",
+    "phrase": "Delete all my data",
+    "type": "COMMAND"
+  }
+]

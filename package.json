@@ -1,0 +1,18 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "string-similarity-js": "^2.1.4"
+  }
+}
