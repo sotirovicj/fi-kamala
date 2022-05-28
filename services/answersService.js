@@ -12,7 +12,7 @@ export function createAnswersService({ subscriptionsService, usersService }) {
   function handleUserInput(userInput, userId) {
     let response;
     const { phrase, matchValue, type, answer } = findMatchingPhrase(userInput);
-    if (matchValue < 0.5) {
+    if (matchValue < 0.4) {
       response = DEFAULT_RESPONSE;
       return response;
     }
