@@ -20,8 +20,8 @@ $ npm start
 
 ## Paths
 
-```js
-GET / answers;
+```
+GET / answers
 ```
 
 Returns an answer to a user's question or request
